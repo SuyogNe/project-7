@@ -1,0 +1,12 @@
+h2{
+    background-color: purple;
+    color:white;
+    font-weight: bolder;
+    font-size: medium;
+}
+p{
+    font-size: 26px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: cadetblue;
+    font-weight: 400;
+}
